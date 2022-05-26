@@ -1,0 +1,2 @@
+# Terminal
+Git Bash
